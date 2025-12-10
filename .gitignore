@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# System files
+.DS_Store
+
+# Data files
+data/
+*.tar.gz
+
+# Python scripts
+train_classifier.py
+visualize_results.py
+
+# Generated results
+classifier_results.png
